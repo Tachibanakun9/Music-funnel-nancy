@@ -7,9 +7,7 @@ function Footer() {
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
           <p className="mb-4">
-            Music School is a premier institution dedicated to teaching the art
-            and science of music. We nurture talent from the ground up,
-            fostering a vibrant community of musicians.
+            Nancy is a.
           </p>
         </div>
         <div>
@@ -17,7 +15,7 @@ function Footer() {
           <ul>
             <li>
               <a
-                href="#"
+                href="/"
                 className="hover:text-white transition-colors duration-300"
               >
                 Home
@@ -25,7 +23,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="#"
+                href="/about-us"
                 className="hover:text-white transition-colors duration-300"
               >
                 About
@@ -33,15 +31,15 @@ function Footer() {
             </li>
             <li>
               <a
-                href="#"
+                href="/product"
                 className="hover:text-white transition-colors duration-300"
               >
-                Courses
+                Product
               </a>
             </li>
             <li>
               <a
-                href="#"
+                href="/contact"
                 className="hover:text-white transition-colors duration-300"
               >
                 Contact
@@ -53,19 +51,19 @@ function Footer() {
           <h2 className="text-white text-lg font-semibold mb-4">Follow Us</h2>
           <div className="flex space-x-4">
             <a
-              href="#"
+              href="https://youtube.com/"
               className="hover:text-white transition-colors duration-300"
             >
-              Facebook
+              Youtube (comming soon)
             </a>
             <a
-              href="#"
+              href="https://x.com/"
               className="hover:text-white transition-colors duration-300"
             >
               Twitter
             </a>
             <a
-              href="#"
+              href="https://instagram.com/"
               className="hover:text-white transition-colors duration-300"
             >
               Instagram
@@ -76,11 +74,11 @@ function Footer() {
           <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
           <p>New Delhi, India</p>
           <p>Delhi 10001</p>
-          <p>Email: info@musicschool.com</p>
-          <p>Phone: (123) 456-7890</p>
+          <p>Email: nancyqueen417@gmail.com</p>
+          
         </div>
         </div>
-        <p className="text-center text-xs pt-8">© 2024 Music School. All rights reserved.</p>
+        <p className="text-center text-xs pt-8">© 2024 Nancy Mabez. All rights reserved.</p>
     </footer>
   )
 }
