@@ -10,7 +10,7 @@ function page() {
         <div>
         
     
-        
+        <Button/>
         <Instructors />
         <Footer />
         </div>
