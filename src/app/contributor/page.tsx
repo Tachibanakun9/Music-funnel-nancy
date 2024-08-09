@@ -26,7 +26,7 @@ export default async function Page() {
   return (
     <main className="mx-auto my-10 space-y-3">
       <h1 className="text-center text-xl font-bold">Contributor Page</h1>
-      <p className="text-center">Welcome, contributor!</p>
+      <p className="text-center">Welcome, contributors!</p>
     </main>
   );
 }
